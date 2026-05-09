@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 import os
 
 usuarioPredefinido = "root"
-contraseñaPredefinida = "toor"
+contraseñaPredefinida = "root"
 
 
 def cambiar_imagen(ubicacion, tamaño):
